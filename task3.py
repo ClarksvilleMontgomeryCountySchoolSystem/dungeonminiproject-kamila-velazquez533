@@ -1,5 +1,5 @@
 #Task 3 - The Guard
-guard_awake = True
+guard_awake = False
 
 if guard_awake:
     outcome = "Shadow: You slip past the guard unnoticed."
