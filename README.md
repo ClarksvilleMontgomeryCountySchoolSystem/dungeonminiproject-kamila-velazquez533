@@ -59,7 +59,7 @@ The exit is in sight. But the drawbridge — is it down?
    - Use `Doom:` for the other branch
 4. Print `outcome`
 
----
+--- 
 
 ## Task 5 — The Escape
 
